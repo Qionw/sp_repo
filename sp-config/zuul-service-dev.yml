@@ -1,6 +1,6 @@
 spring:
   application:
-    name: zuul
+    name: zuul-service
   rabbitmq:
     host: 192.168.187.131
     port: 5672
